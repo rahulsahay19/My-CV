@@ -150,7 +150,7 @@ Client interaction for requirement analysis and issue resolution.
 
 BaNCS CBS:-
 
-•	<p align="justify">Involved with the Development team wherein I’m delivering end to end solution to the three banking clients say Central Bank of India, Allahabad Bank & Bank of Maharashtra. BaNCS CBS system is an end-to -end solution, which provides seamless integration of front-end and back-end operations. Also designed new website for State Bank of India for SME module.</p>
+<p align="justify">• Involved with the Development team wherein I’m delivering end to end solution to the three banking clients say Central Bank of India, Allahabad Bank & Bank of Maharashtra. BaNCS CBS system is an end-to -end solution, which provides seamless integration of front-end and back-end operations. Also designed new website for State Bank of India for SME module.</p>
 
 <p align="justify">• It provides solutions to banks for Deposits, Payments, Clearing & Settlement process. The application handles order execution and provides stringent risk management environment.</p>
 
