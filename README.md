@@ -43,12 +43,14 @@ Blog
 --------------------
 I am also Microsoft MVP. My profile can be referred at http://bit.ly/Rahul-Sahay-MVP. I also take time to write technical blog at regular interval. Same can be referred at  http://myview.rahulnivi.net. My blog is entirely dedicated on Microsoft and Google Technology latest stuffs.
 
+Open Source Projects
+--------------------
+I have kept all my projects on GIT @ https://github.com/rahulsahay19/
+
 Technical Experience
 --------------------
 **My Past Experience:**
-Company – Marlabs
-Client – Nasdaq 	                        Feb 16 - May 17.
-Lead Developer - Technical
+Company – Marlabs | Client – Nasdaq | Feb 16 - May 17 | Lead Developer - Technical
 
 Assignment: - 
 <p align="justify">Working as lead here. I am currently designing global platform wherein I am doing POC on all latest technology suite including client/server side stuffs. I am also responsible for designing framework for developers’ team, where they get one stop hub for developing new features.  I am also involved in Requirement Gathering, Requirement Analysis, and Design Review. Most of my time is devoted in building rich and scalable framework by putting different client/server side frameworks all together.</p>
