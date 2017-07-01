@@ -176,11 +176,11 @@ Role:- Developer
 
 Responsibilities:- 
 
-Development of new requirements.
+•	Development of new requirements.
 
-Also maintenance of existing functionalities.
+•	Also maintenance of existing functionalities.
 
-Client interaction for requirement analysis and issue resolution.
+•	Client interaction for requirement analysis and issue resolution.
 
 Company - TATA CONSULTANCY SERVICES, TRIVENDRAUM | Apr’ 08 – May’ 08 | Developer – Technical (TRAINING)
 
@@ -213,8 +213,5 @@ Xth STD - 2000
 Saraswati Vidya mandir, Sirka – Jharkhand.
 
 ----------------------------------------
-Date of Birth: Available On Request
-Passport No: Available On Request
-Pan Card: Available On Request
-References: Available On Request
+Date of Birth: Available On Request | Passport No: Available On Request | Pan Card: Available On Request | References: Available On Request
 
