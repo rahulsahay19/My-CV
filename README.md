@@ -12,7 +12,7 @@ India                               Microsoft MVP
 Profile
 ---------
 
-•	Highly competent, diligent and dynamic IT Engineer offering 9+ years of experience. Currently spearheading as LEAD Developer for Marlabs.
+•	Highly competent, diligent and dynamic IT Engineer offering 9+ years of experience. Currently spearheading as SDE @ Kongsberg.
 
 Core Competencies
 ----------
