@@ -1,7 +1,7 @@
 Rahul Sahay                                                 
 
-<p align="right"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5001604?fullName=Rahul%20%20Sahay" target="_blank"><img class="alignnone size-full wp-image-2284" src="http://myview.rahulnivi.net/wp-content/uploads/2015/10/mvp.png" alt="mvp" height="600" width="600"></a></p>
-============
+<p align="right"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5001604?fullName=Rahul%20%20Sahay" target="_blank"><img class="alignnone size-full wp-image-2284" src="http://myview.rahulnivi.net/wp-content/uploads/2015/10/mvp.png" alt="mvp" height="400" width="400"></a></p>
+
 
 -------------------     ----------------------------
 1 MyAddress                        rahulsahay19@gmail.com
