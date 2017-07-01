@@ -150,23 +150,23 @@ BaNCS CBS:-
 
 •	<p align="justify">Involved with the Development team wherein I’m delivering end to end solution to the three banking clients say Central Bank of India, Allahabad Bank & Bank of Maharashtra. BaNCS CBS system is an end-to -end solution, which provides seamless integration of front-end and back-end operations. Also designed new website for State Bank of India for SME module.</p>
 
-•	<p align="justify">It provides solutions to banks for Deposits, Payments, Clearing & Settlement process. The application handles order execution and provides stringent risk management environment.</p>
+<p align="justify">• It provides solutions to banks for Deposits, Payments, Clearing & Settlement process. The application handles order execution and provides stringent risk management environment.</p>
 
-•<p align="justify"> Excellent strategy developer, interpreter with the help of effort - estimation and presentations which help in timely resolutions. </p>
+<p align="justify">• Excellent strategy developer, interpreter with the help of effort - estimation and presentations which help in timely resolutions. </p>
 
-•	<p align="justify"> Analyze the technical specifications and the effectiveness of the product developed, approve the developed product with the collective consent. </p>
+<p align="justify">• Analyze the technical specifications and the effectiveness of the product developed, approve the developed product with the collective consent. </p>
 
-•	<p align="justify"> Acting as a first point of contact for various work involving Technical issues, Feasibility of the product and other core issues related to the business of the bank. </p>
+<p align="justify">• Acting as a first point of contact for various work involving Technical issues, Feasibility of the product and other core issues related to the business of the bank. </p>
 
-•<p align="justify"> Able to handle the escalated critical requests with the clients there in at the client site immediately in an effective and planned manner.</p>
+<p align="justify">• Able to handle the escalated critical requests with the clients there in at the client site immediately in an effective and planned manner.</p>
 
-•<p align="justify"> Formulate plans for day-to-day activities, worked on schedules and regularly interacted with the team and the clients. </p>
+<p align="justify">• Formulate plans for day-to-day activities, worked on schedules and regularly interacted with the team and the clients. </p>
 
-•<p align="justify"> Identify new areas of requirement by forecasting the needs and limitation of the existing product which helps in business excellence. </p>
+<p align="justify">• Identify new areas of requirement by forecasting the needs and limitation of the existing product which helps in business excellence. </p>
 
-•<p align="justify"> Providing support in the live environment to the banks whenever they required the assistance.</p>
+<p align="justify">• Providing support in the live environment to the banks whenever they required the assistance.</p>
 
-•<p align="justify"> Oversee all phases of project execution; approve engineering/design changes, troubleshoot and resolve complex technical problems,consistently meeting project deadlines and highest possible quality standards.</p>
+<p align="justify">• Oversee all phases of project execution; approve engineering/design changes, troubleshoot and resolve complex technical problems,consistently meeting project deadlines and highest possible quality standards.</p>
 
 Client: - State Bank of India, Allahabad Bank, Central Bank of India, Bank of Maharashtra.
 
