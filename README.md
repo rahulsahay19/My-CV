@@ -12,31 +12,36 @@ India                               Microsoft MVP
 Profile
 ---------
 
-•	Highly competent, diligent and dynamic IT Engineer offering 9+ years of experience. Currently spearheading as SDE @ Kongsberg.
+•	Highly competent, diligent and dynamic IT Engineer offering 12+ years of experience. Currently spearheading as technical fellow @ Kongsberg. AZ-300 Certified ( Azure Solution Architect)
 
 Core Competencies
 ----------
-AngularJS
+•	Azure,
 
-WEB-API
+•	Docker,
 
-WCF
+•	Kubernetes,
 
-MVC
+•	Azure Devops,
 
-C#
+•	GitHub,
 
-Design Patterns (Repository, UOW etc)
+•	Angular,
 
-JavaScript Frameworks (JQuery, Toastr etc.)
+•	Microservices,
 
-Testing Framework (Visual Studio Test, Jasmine)
+•	Identity Server4,
 
-IIS
+•	C#,
 
-Cloud (Azure) 
+•	WEB-API,
 
-Agile Methodology
+•	Design Patterns (Repository, UOW etc),
+
+•	Testing Framework (Visual Studio Test, Jasmine),
+
+•	Agile Methodology
+
 
 
 Blog
@@ -49,6 +54,38 @@ I have kept all my projects on GIT @ https://github.com/rahulsahay19/
 
 Technical Experience
 --------------------
+**My Current Experience:**
+Company – Kongsberg
+	May 17 - Current.
+Software Developer Engineer 2 
+
+Assignment: - 
+Working as technical fellow. I have designed platform built on angular and .net core for on boarding different energy domain clients especially in the field of OIL mining, drilling and wells. This platform takes data from various IOT sensors installed on IOT edge devices and show the complete analytics and dashboard to clients. This platform works on real-time time series data. I am responsible for designing the micro services compliant framework for business needs. Currently, I am mostly assisting my architect with different design strategies, designing POCs and then translating them into user stories and then building the feature in actual project. 
+
+I have also involved in building multi cloud platform wherein I designed the same using Kubernetes for Azure and Alibaba. Here, I have used Infrastructure as code to serve the common purpose. In addition, I have packaged the entire stuff in Kubernetes, where it is deployed by Helm upgrade on both the environments. This was one time setup and business code for both environments remain same. 
+
+•	Technologies Used:-
+Platform: - Visual Studio 2019
+Framework: - .net core, angular, 
+Design Patterns: - Micro services
+Cloud: - Azure
+Container: - Docker 
+Orchestrators: - Kubernetes
+Git: - https://github.com/rahulsahay19 
+
+ 
+Other Works: - 
+
+•	Open Source Projects and extensions 
+
+Visual Studio Code Extension: - http://bit.ly/ASP-NET-CORE-Ext
+NPM Projects: - https://www.npmjs.com/~rahulsahay19
+E-Commerce App:-  https://github.com/rahulsahay19/eCommerce-App 
+        Movie-Review App:- https://github.com/rahulsahay19/MovieReview-Angular-Prod
+      Other open source projects also can be viewed at https://github.com/rahulsahay19
+
+
+
 **My Past Experience:**
 Company – Marlabs | Client – Nasdaq | Feb 16 - May 17 | Lead Developer - Technical
 
